@@ -5,3 +5,6 @@ python-dotenv
 pypdf
 openai
 llama-index-readers-file
+chromadb
+llama-index-vector-stores-chroma
+pysqlite3-binary

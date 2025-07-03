@@ -80,4 +80,8 @@ The application will:
 
 ![Terminal output of the RAG application](images/rag_demo.png "Screenshot of the application in action")
 
+Chroma DB Demo (chroma-demo.py)
+
+![Terminal output of the RAG application](images/chroma-db-demo.png "Screenshot of the application in action")
+
 
